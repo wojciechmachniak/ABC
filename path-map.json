@@ -1,8 +1,24 @@
 [
   {
+    "filePath": "customCode/css/Main.css",
+    "savePath": "customCode/css/-N6IeRLOf4KCj_71Jt1H/code",
+    "customCodeName": "Main",
+    "customCodeScope": {
+      "global": true
+    }
+  },
+  {
     "filePath": "customCode/html/Main.html",
     "savePath": "customCode/html/-N6IZJE8nKn9o2zvllmt/code",
     "customCodeName": "Main",
+    "customCodeScope": {
+      "global": true
+    }
+  },
+  {
+    "filePath": "customCode/js/Script.js",
+    "savePath": "customCode/js/-N6Ie_ILWXZlvCU3QeM2/code",
+    "customCodeName": "Script",
     "customCodeScope": {
       "global": true
     }
