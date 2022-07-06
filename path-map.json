@@ -8,6 +8,12 @@
     }
   },
   {
+    "filePath": "tables/movies.json",
+    "savePath": "models/movies",
+    "isModel": true,
+    "modelKey": "movies"
+  },
+  {
     "filePath": "tables/pages.json",
     "savePath": "models/pages",
     "isModel": true,
