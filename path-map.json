@@ -20,12 +20,20 @@
     "modelKey": "pages"
   },
   {
+    "filePath": "subPages/-N6IdUjwbAB6OFBW5sIl/-N6IdWszYxq1I918lSc1.json",
+    "savePath": "subTabs/-N6IdUjwbAB6OFBW5sIl/-N6IdWszYxq1I918lSc1"
+  },
+  {
     "filePath": "pages/-N6IJ6CahmIcZOnD3vdx.json",
     "savePath": "tabs/-N6IJ6CahmIcZOnD3vdx"
   },
   {
     "filePath": "pages/-N6IZ12JBHAAq2x8PXI4.json",
     "savePath": "tabs/-N6IZ12JBHAAq2x8PXI4"
+  },
+  {
+    "filePath": "pages/-N6IdUjwbAB6OFBW5sIl.json",
+    "savePath": "tabs/-N6IdUjwbAB6OFBW5sIl"
   },
   {
     "filePath": "widgets/-N6IZ15MmLL3YRI2k1XT/widget.json",

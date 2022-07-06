@@ -4,5 +4,18 @@
     "name": "Movies",
     "rowKey": "-N6IZ18MbkGOws0ALN6n",
     "tabKey": "-N6IZ12JBHAAq2x8PXI4"
+  },
+  "-N6IdUpYmGKSACH9XGVx": {
+    "_id": 2,
+    "name": "Projects",
+    "rowKey": "-N6IdUpYmGKSACH9XGVx",
+    "tabKey": "-N6IdUjwbAB6OFBW5sIl"
+  },
+  "-N6IdWxbYzSMYjqL0jC2": {
+    "_id": 3,
+    "name": "Add",
+    "parent": "-N6IdUpYmGKSACH9XGVx",
+    "rowKey": "-N6IdWxbYzSMYjqL0jC2",
+    "tabKey": "-N6IdWszYxq1I918lSc1"
   }
 }
