@@ -1,5 +1,13 @@
 [
   {
+    "filePath": "customCode/html/Main.html",
+    "savePath": "customCode/html/-N6IZJE8nKn9o2zvllmt/code",
+    "customCodeName": "Main",
+    "customCodeScope": {
+      "global": true
+    }
+  },
+  {
     "filePath": "tables/pages.json",
     "savePath": "models/pages",
     "isModel": true,
