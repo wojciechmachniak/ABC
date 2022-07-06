@@ -68,11 +68,15 @@
     "savePath": "widgets/-N6IZbmWHd_sl3T2d-0q/template"
   },
   {
-    "filePath": "widgets/-N6IerJsNAaoIHhPhkAV/widget.json",
+    "filePath": "widgets/my-component/widget.json",
     "savePath": "widgets/-N6IerJsNAaoIHhPhkAV"
   },
   {
-    "filePath": "widgets/-N6IerJsNAaoIHhPhkAV/template.html",
+    "filePath": "widgets/my-component/detailTemplate.html",
+    "savePath": "widgets/-N6IerJsNAaoIHhPhkAV/detailTemplate"
+  },
+  {
+    "filePath": "widgets/my-component/template.html",
     "savePath": "widgets/-N6IerJsNAaoIHhPhkAV/template"
   },
   {
