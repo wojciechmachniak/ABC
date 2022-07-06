@@ -1,6 +1,25 @@
 [
   {
+    "filePath": "tables/pages.json",
+    "savePath": "models/pages",
+    "isModel": true,
+    "modelKey": "pages"
+  },
+  {
     "filePath": "pages/-N6IJ6CahmIcZOnD3vdx.json",
     "savePath": "tabs/-N6IJ6CahmIcZOnD3vdx"
+  },
+  {
+    "filePath": "pages/-N6IZ12JBHAAq2x8PXI4.json",
+    "savePath": "tabs/-N6IZ12JBHAAq2x8PXI4"
+  },
+  {
+    "filePath": "widgets/-N6IZ15MmLL3YRI2k1XT/widget.json",
+    "savePath": "widgets/-N6IZ15MmLL3YRI2k1XT"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/movies.json",
+    "savePath": "widgetsData/dataGrid/movies",
+    "conversion": "dataGrid"
   }
 ]

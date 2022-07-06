@@ -1,0 +1,14 @@
+{
+  "dependency": "dataGrid/movies",
+  "gsOptions": {
+    "h": 6,
+    "w": 24
+  },
+  "layout": "b-card",
+  "overflow": "height: auto",
+  "props": {
+    "gridId": "movies"
+  },
+  "tab": "-N6IZ12JBHAAq2x8PXI4",
+  "type": "DataGrid"
+}
