@@ -26,6 +26,14 @@
     "savePath": "widgets/-N6IZ15MmLL3YRI2k1XT"
   },
   {
+    "filePath": "widgets/-N6IZbmWHd_sl3T2d-0q/widget.json",
+    "savePath": "widgets/-N6IZbmWHd_sl3T2d-0q"
+  },
+  {
+    "filePath": "widgets/-N6IZbmWHd_sl3T2d-0q/template.html",
+    "savePath": "widgets/-N6IZbmWHd_sl3T2d-0q/template"
+  },
+  {
     "filePath": "widgetsData/dataGrid/movies.json",
     "savePath": "widgetsData/dataGrid/movies",
     "conversion": "dataGrid"

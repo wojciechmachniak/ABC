@@ -2,7 +2,9 @@
   "dependency": "dataGrid/movies",
   "gsOptions": {
     "h": 6,
-    "w": 24
+    "w": 24,
+    "x": 0,
+    "y": 0
   },
   "layout": "b-card",
   "overflow": "height: auto",
