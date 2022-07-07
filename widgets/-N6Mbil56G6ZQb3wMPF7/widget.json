@@ -1,5 +1,5 @@
 {
-  "classes": "",
+  "component": "-N6MbgRvA-4PCwj_bmag",
   "gsOptions": {
     "h": 6,
     "w": 12,
@@ -7,7 +7,6 @@
     "y": 6
   },
   "layout": "b-card",
-  "styles": "",
   "tab": "-N6IZ12JBHAAq2x8PXI4",
-  "title": ""
+  "type": "custom"
 }

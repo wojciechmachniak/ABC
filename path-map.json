@@ -1,5 +1,13 @@
 [
   {
+    "filePath": "components/u-hello-component/index.json",
+    "savePath": "components/-N6MbgRvA-4PCwj_bmag"
+  },
+  {
+    "filePath": "components/u-hello-component/compoenentCode.vue",
+    "savePath": "components/-N6MbgRvA-4PCwj_bmag/code"
+  },
+  {
     "filePath": "customCode/css/Main.css",
     "savePath": "customCode/css/-N6IeRLOf4KCj_71Jt1H/code",
     "customCodeName": "Main",
@@ -80,16 +88,8 @@
     "savePath": "widgets/-N6IerJsNAaoIHhPhkAV/template"
   },
   {
-    "filePath": "widgets/hello-component/widget.json",
-    "savePath": "widgets/-N6MFh3OR7R4tzx3Q5li"
-  },
-  {
-    "filePath": "widgets/hello-component/detailTemplate.html",
-    "savePath": "widgets/-N6MFh3OR7R4tzx3Q5li/detailTemplate"
-  },
-  {
-    "filePath": "widgets/hello-component/template.html",
-    "savePath": "widgets/-N6MFh3OR7R4tzx3Q5li/template"
+    "filePath": "widgets/-N6Mbil56G6ZQb3wMPF7/widget.json",
+    "savePath": "widgets/-N6Mbil56G6ZQb3wMPF7"
   },
   {
     "filePath": "widgetsData/dataGrid/movies.json",
