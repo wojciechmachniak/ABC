@@ -80,11 +80,15 @@
     "savePath": "widgets/-N6IerJsNAaoIHhPhkAV/template"
   },
   {
-    "filePath": "widgets/-N6MFh3OR7R4tzx3Q5li/widget.json",
+    "filePath": "widgets/hello-component/widget.json",
     "savePath": "widgets/-N6MFh3OR7R4tzx3Q5li"
   },
   {
-    "filePath": "widgets/-N6MFh3OR7R4tzx3Q5li/template.html",
+    "filePath": "widgets/hello-component/detailTemplate.html",
+    "savePath": "widgets/-N6MFh3OR7R4tzx3Q5li/detailTemplate"
+  },
+  {
+    "filePath": "widgets/hello-component/template.html",
     "savePath": "widgets/-N6MFh3OR7R4tzx3Q5li/template"
   },
   {
